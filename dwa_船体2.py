@@ -1171,4 +1171,6 @@ if __name__ == "__main__":
     tuner = ParamTuner(config_manager, on_close_callback=tuner_closed_callback)
     tuner.run() # 这会阻塞，直到GUI窗口关闭
 
-    print("ParamTuner 测试结束。") 
+    print("ParamTuner 测试结束。")
+
+# 这是一个新的修改，用于演示Git提交过程。 
