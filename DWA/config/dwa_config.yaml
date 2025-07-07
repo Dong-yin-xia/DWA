@@ -1,0 +1,15 @@
+max_speed: 2.0
+min_speed: 0.0
+max_omega: 1.0
+min_omega: -1.0
+max_accel: 0.5
+max_domega: 1.0
+v_resolution: 0.1
+omega_resolution: 0.1
+dt: 0.1
+predict_time: 3.0
+base_heading_weight: 0.8
+base_dist_weight: 0.2
+base_velocity_weight: 0.1
+base_obstacle_weight: 1.5
+base_safe_distance: 5.0
